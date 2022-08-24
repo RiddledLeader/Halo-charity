@@ -1,5 +1,5 @@
 html, body{
-    background-color: lightblue;
+    background-color: mediumpurple;
     height: 100%;
     width: 100%;
   }
@@ -22,7 +22,12 @@ html, body{
       margin-right: 50px;
     }
     h1 {
-      color: red;
+      color: yellow;
       ;
     }
-    
+    .assassins {
+      height:200px;
+      border-radius: 10px;
+      float: left, inline-end;
+      margin-right: 100px;
+  }
